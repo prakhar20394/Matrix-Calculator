@@ -6,25 +6,25 @@ A matrix calculator in Java without the use of any libraries.
 
 It can perform various tasks: <br>
 1 --> Enter a new Matrix <br>
-2 --> Change elements of a Matrix
-3 --> Display labels of a Matrix
-4 --> Perform: Addition of Matrix
-5 --> Perform: Subtraction of Matrix
-6 --> Perform: Multiplication of Matrix
-7 --> Perform: Division of Matrix
-8 --> Perform element wise operation
-9 --> Transpose Matrix
-10 --> Inverse Matrix
-11 --> Compute Mean
-12 --> Compute Determinants
-13 --> Compute A + A^T
-14 --> Compute EigenVectors and Values
-15 --> Solve a linear equation
-16 --> Find by type
+2 --> Change elements of a Matrix <br>
+3 --> Display labels of a Matrix <br>
+4 --> Perform: Addition of Matrix <br>
+5 --> Perform: Subtraction of Matrix <br>
+6 --> Perform: Multiplication of Matrix <br>
+7 --> Perform: Division of Matrix <br>
+8 --> Perform element wise operation <br>
+9 --> Transpose Matrix <br>
+10 --> Inverse Matrix <br>
+11 --> Compute Mean <br>
+12 --> Compute Determinants <br>
+13 --> Compute A + A^T <br>
+14 --> Compute EigenVectors and Values <br>
+15 --> Solve a linear equation <br>
+16 --> Find by type <br>
 
-![Plan](https://user-images.githubusercontent.com/88589942/171235453-6f990b1d-ca24-437f-b9e2-e9ea714a5220.png)
+![Plan](https://user-images.githubusercontent.com/88589942/171235453-6f990b1d-ca24-437f-b9e2-e9ea714a5220.png) <br>
 
-**Deployment instruction**
-Download all the files in a folder or download entire repository as a ZIP file and extract it.
-Open the file 'Matrix Calculator' and run it.
+**Deployment instruction** <br>
+Download all the files in a folder or download entire repository as a ZIP file and extract it. <br>
+Open the file 'Matrix Calculator' and run it. <br>
 You can now access the Matrix calculator on your Shell on running the code.
