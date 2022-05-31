@@ -4,8 +4,8 @@ A matrix calculator in Java without the use of any libraries.
 - This program is able to perform various operations on matrices that users input. 
 - The program is built with on Java as part of Advanced Programming assignment, as part to learn Object Oriented Programming (OOPs)
 
-It can perform various tasks:
-1 --> Enter a new Matrix
+It can perform various tasks: <br>
+1 --> Enter a new Matrix <br>
 2 --> Change elements of a Matrix
 3 --> Display labels of a Matrix
 4 --> Perform: Addition of Matrix
